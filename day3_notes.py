@@ -1,7 +1,4 @@
-# =========================
 # DAY 3 - OPERATORS & LOGIC
-# =========================
-
 # OPERATORS
 # +, -, *, /, %
 
@@ -20,3 +17,6 @@
 
 # DATABASE
 # Stores data
+
+#Operator
+#A symbol used to perform operations on values
